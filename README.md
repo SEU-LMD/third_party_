@@ -2,7 +2,9 @@
 1、修改cv_bridge的配置文件，配置文件的目录为：
 /opt/ros/melodic/share/cv_bridge/cmake/cv_bridgeConfig.cmake
 修改以下两段：
-图片
-图片
+第一段：
+![image](picture/图片01.png)
+第二段：
+![image](picture/图片02.png)
 2、重新编译cv_bridge并进行替换
 运行replace_cv_bridge.sh。
